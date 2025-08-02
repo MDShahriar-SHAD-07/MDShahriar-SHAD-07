@@ -18,6 +18,19 @@ Currently serving as an **Undergraduate Teaching Assistant** and aiming to becom
 
 ---
 
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MDShahriar-SHAD-07&show_icons=true&theme=github_dark&hide_border=false&count_private=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDShahriar-SHAD-07&theme=github-dark&hide_border=false" width="47%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDShahriar-SHAD-07&layout=compact&theme=github_dark&hide_border=false" width="47%"/>
+</p>
+
+---
+
 ### 🧠 Interests & Goals
 - 🔍 Artificial Intelligence & Machine Learning
 - 🔧 Real-Time Emergency Response Tech (like ResQ & Fire Safety Map)
