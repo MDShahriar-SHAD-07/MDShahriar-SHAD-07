@@ -50,17 +50,26 @@ Check out **lectures, tutorials, and exam guides** on:
 ---
 
 ### 🏆 Achievements
+
 - 🥈 **1st Runners-Up**, UIU CSE Project Show Fall '24  
   *Project: [Fire Safety Map](https://github.com/your-username/Fire-Safety-Map)* — Real-time fire incident tracking and emergency decision support system
+  *Project Video: [Fire Safety Map Project Details Video](https://youtu.be/-a_GA0ptSi0?si=JSbvhzaOND84Ir1C)* 
+
+- 🥈 **2nd Runners-Up**, UIU CSE Project Show Spring '24  
+  *Project: [Assistive Gloves For Blind and Mute](https://github.com/MDShahriar-SHAD-07/Assistive-Gloves-For-Blind-and-Mute)* — "Let Every Touch Speak, and Every Step See."
+  *Project Video: [Assistive Gloves For Blind and Mute Project Details Video](https://youtu.be/GNEM-sB_Y8c?si=LBs5CiBzqYToPTvR)*
+
+- 🥈 **Runners-Up**, UIU CSE National Fest '25  
+  *Segment: [Robo Soccer](https://www.linkedin.com/posts/md-shahriar-islam-9a6b38300_c101-uiurobotics-uiucsefest-activity-7287132530850316289-I2sH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE0N8o4B9-8ZuABfA9A_6nqM5UqjBSIRcrU)* — "C101 Achieved Runners-Up Position in Soccer Bot Segment"
 
 ---
 
 ### 📫 Let's Connect!
 
 - 📍 Dhaka, Bangladesh  
-- 📧 shahriar@email.com *(replace with your real email)*  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/) *(optional)*  
-- 🔗 [GitHub](https://github.com/your-username) *(update link after you know your username)*
+- 📧 mislam223187@bscse.uiu.ac.bd *(replace with your real email)*  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/md-shahriar-islam-9a6b38300/) *(optional)*  
+- 🔗 [GitHub](https://github.com/MDShahriar-SHAD-07) *(update link after you know your username)*
 
 ---
 
