@@ -67,10 +67,10 @@ Check out **lectures, tutorials, and exam guides** on:
 ### 📫 Let's Connect!
 
 - 📍 Dhaka, Bangladesh  
-- 📧 mislam223187@bscse.uiu.ac.bd *(replace with your real email)*  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/md-shahriar-islam-9a6b38300/) *(optional)*  
-- 🔗 [GitHub](https://github.com/MDShahriar-SHAD-07) *(update link after you know your username)*
-
+- 📧 mislam223187@bscse.uiu.ac.bd 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/md-shahriar-islam-9a6b38300/)
+- 🔗 [GitHub](https://github.com/MDShahriar-SHAD-07)
+  
 ---
 
 > 💬 “Every second counts — quick actions and accurate information can save a life.”  
