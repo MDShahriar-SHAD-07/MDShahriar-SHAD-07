@@ -14,7 +14,6 @@
 
 I'm an **inquisitive** and **approachable** individual who finds joy in gaining knowledge and sharing it with others.  
 Whether it’s through reading, coding, exploring new places, or learning from new people — I embrace all experiences with curiosity and gratitude.  
-Currently serving as an **Undergraduate Teaching Assistant** and aiming to become a **Research Assistant in AI and Automation**.
 
 ---
 
