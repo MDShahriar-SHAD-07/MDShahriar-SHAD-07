@@ -64,6 +64,18 @@ Check out **lectures, tutorials, and exam guides** on:
 
 ### 🏆 Achievements
 
+- 🥈 **2nd Runner-Up**, UIU CSE Project Show Summer '25  
+  *Project: [REQ-U]* — The AI Powered Rescue Rover for live saving operations in post disaster Bangladesh
+  *Project Video: [REQ-U Project Details Video](https://youtu.be/ALNjF5psijo?si=HNugGGqMd9mwJNFv)*
+
+- 🥈 **2nd Runner-Up**, UIU Research and Innovation Week 2025  
+  *Project: [REQ-U]* — The AI Powered Rescue Rover for live saving operations in post disaster Bangladesh
+  *Project Video: [REQ-U Project Details Video](https://youtu.be/ALNjF5psijo?si=HNugGGqMd9mwJNFv)*
+
+- 🥈 **The Champion**, UIU CSE Project Show Spring '25  
+  *Project: [RESQ](https://github.com/MDShahriar-SHAD-07/ResQ)* — Real-time mult-incident tracking and emergency decision support app
+  *Project Video: [RESQ Project Details Video](https://youtu.be/-a_GA0ptSi0?si=JSbvhzaOND84Ir1C)*
+  
 - 🥈 **1st Runners-Up**, UIU CSE Project Show Fall '24  
   *Project: [Fire Safety Map](https://github.com/your-username/Fire-Safety-Map)* — Real-time fire incident tracking and emergency decision support system
   *Project Video: [Fire Safety Map Project Details Video](https://youtu.be/-a_GA0ptSi0?si=JSbvhzaOND84Ir1C)* 
